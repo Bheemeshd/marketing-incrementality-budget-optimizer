@@ -1,0 +1,9 @@
+{
+  "campaigns": 12,
+  "customers": 6000,
+  "media_spend": 257898.92,
+  "observed_revenue": 334901.46,
+  "incremental_revenue": 118413.61,
+  "portfolio_incremental_roas": 0.459,
+  "positive_lift_campaigns": 10
+}
