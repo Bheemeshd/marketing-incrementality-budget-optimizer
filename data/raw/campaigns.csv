@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,start_date,end_date,planned_budget,holdout_share
+CMP001,Paid Search Wave 1,paid_search,2025-01-06,2025-01-26,23665.0,0.2
+CMP002,Paid Social Wave 1,paid_social,2025-01-06,2025-01-26,17776.0,0.2
+CMP003,Email Wave 1,email,2025-01-06,2025-01-26,15972.0,0.2
+CMP004,Display Wave 1,display,2025-01-06,2025-01-26,20327.0,0.2
+CMP005,Paid Search Wave 2,paid_search,2025-02-03,2025-02-23,18327.0,0.2
+CMP006,Paid Social Wave 2,paid_social,2025-02-03,2025-02-23,23652.0,0.2
+CMP007,Email Wave 2,email,2025-02-03,2025-02-23,15013.0,0.2
+CMP008,Display Wave 2,display,2025-02-03,2025-02-23,31644.0,0.2
+CMP009,Paid Search Wave 3,paid_search,2025-03-03,2025-03-23,30402.0,0.2
+CMP010,Paid Social Wave 3,paid_social,2025-03-03,2025-03-23,29657.0,0.2
+CMP011,Email Wave 3,email,2025-03-03,2025-03-23,17086.0,0.2
+CMP012,Display Wave 3,display,2025-03-03,2025-03-23,26869.0,0.2
